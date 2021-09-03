@@ -1,0 +1,6 @@
+{
+  "name": "@sydney-broker-node-lib/adminclient",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}

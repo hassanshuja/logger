@@ -1,0 +1,18 @@
+{
+  "name": "@sydney-broker-node-lib/logger",
+  "version": "1.0.0",
+  "description": "This is a logger module for splunk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "The Platform Team",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "moment-timezone": "^0.5.33",
+    "sanitize-html": "^2.4.0",
+    "winston": "^3.3.3"
+  }
+}

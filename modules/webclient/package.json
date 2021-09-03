@@ -1,0 +1,12 @@
+{
+  "name": "@sydney-broker-node-lib/webclient",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@sydney-broker-node-lib/adminclient": "1.0.0",
+    "@sydney-broker-node-lib/logger": "1.0.0",
+    "bootstrap": "^4.5.3",
+    "moment": "^2.29.1"
+  }
+}
